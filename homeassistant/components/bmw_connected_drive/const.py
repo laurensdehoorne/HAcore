@@ -20,6 +20,8 @@ CONF_CAPTCHA_URL = (
 
 DATA_HASS_CONFIG = "hass_config"
 
+X_USER_AGENT = "android(123bmw);{brand};{app_version};{region}"
+
 UNIT_MAP = {
     "KILOMETERS": UnitOfLength.KILOMETERS,
     "MILES": UnitOfLength.MILES,
